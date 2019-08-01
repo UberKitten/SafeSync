@@ -19,9 +19,9 @@ Safes are created with the following properties:
 ## Install Instructions
 
 ### PoShPACLI
-First, we need to install [PoShPACLI](https://github.com/pspete/PoShPACLI/) to the machine's PowerShell Modules. This needs to be done once per machine. We can do this automatically or manually:
+First, we need to install [PoShPACLI](https://github.com/pspete/PoShPACLI/) to the machine's PowerShell Modules. This needs to be done once per machine.
 
-#### Automatic
+#### Automatic Install
 This will install PoShPACLI from [PowerShell Gallery](https://www.powershellgallery.com/packages/PoShPACLI/):
 1. Run `Install-Module -Name PoShPACLI -Scope AllUsers` in PowerShell as admin
 2. Run `Import-Module PoShPACLI` in PowerShell and verify there are no errors
