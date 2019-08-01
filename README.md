@@ -34,7 +34,7 @@ This will install PoShPACLI from [PowerShell Gallery](https://www.powershellgall
 
 ### PACLI
 We need the latest PACLI executable:
-1. Log in to the [CyberArk Support Vault](https://support.cyberark.com)
+1. Log in to the [CyberArk Support Vault](https://support.cyberark.com) (you may need to copy/paste this link to a new tab)
 2. Navigate to the `CyberArk PAS Solution` safe and choose the folder for the latest version 
 3. Under `PAS Components\APIs CD Image` you'll find `PACLI-Rls-[version].zip`
 4. Extract this folder to a permanent location, we'll configure that path in the script
