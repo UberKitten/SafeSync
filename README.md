@@ -29,7 +29,7 @@ This will install PoShPACLI from [PowerShell Gallery](https://www.powershellgall
 #### Manual Install
 1. Download the [PoShPACLI zip](https://github.com/pspete/PoShPACLI/archive/master.zip)
 2. Run `$env:ProgramFiles\PowerShell\Modules` in PowerShell
-3. Create a PoShPACLI folder in that directory and extract the zip contents there
+3. Extract the PoShPACLI folder from that zip to the above directory
 4. Run `Import-Module PoShPACLI` in PowerShell and verify there are no errors
 
 ### PACLI
